@@ -263,15 +263,16 @@ nav {
 .testimonial-section-bottom {
   margin-top: 2rem;
   background-color: white;
-  padding: 1.5rem 2rem;
+  padding: 1rem; /* Adjust padding as needed */
   display: flex;
   align-items: center;
   justify-content: center;
-  max-width: 750px;
-  border-radius: 2rem;
+  max-width: 500px; /* Adjust max-width as needed */
+  border-radius: 1rem; /* Adjust border radius as needed */
   flex-direction: column;
   text-align: center;
 }
+
 .testimonial-section-bottom {
   margin: 2rem auto;
 }
