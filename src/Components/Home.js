@@ -1,6 +1,6 @@
 import React from "react";
 import BannerBackground from "../Assets/home-banner-background.png";
-import Nugget from "../Assets/nugget.jpg"
+import Nugget from "../Assets/nuggets.jpg"
 import Navbar from "./Navbar";
 import { FiArrowRight } from "react-icons/fi";
 
